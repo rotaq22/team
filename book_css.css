@@ -47,6 +47,7 @@
   z-index: 9999999;
 }
 .info > div {
+  color: #fff;
   display: block;
   position: absolute;
   width: 100%;
